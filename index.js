@@ -1,4 +1,4 @@
-var bitcore = require('bitcore-lib');
-bitcore.P2P = require('./lib');
+var veriumcore = require('veriumcore-lib');
+veriumcore.P2P = require('./lib');
 
-module.exports = bitcore.P2P;
+module.exports = veriumcore.P2P;
