@@ -1,6 +1,6 @@
 {
   "name": "veriumcore-p2p",
-  "version": "5.0.0-beta.2",
+  "version": "5.0.0",
   "description": "Interface to the bitcoin P2P network for veriumcore",
   "main": "index.js",
   "scripts": {
